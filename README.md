@@ -1,1 +1,1 @@
-# react-redux-skeleton
+# React Redux Boilerplate
