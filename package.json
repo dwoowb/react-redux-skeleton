@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "webpack": "webpack --watch",
-    "start": "webpack-dev-server --inline --hot"
+    "start": "webpack-dev-server --inline --hot",
+    "lint": "./node_modules/.bin/eslint frontend/"
   },
   "repository": {
     "type": "git",
